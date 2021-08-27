@@ -18,4 +18,9 @@ getExternalCacheDir,
 shareIntent,
 readPhoneNumber,
 FileInputStream,
-getSharedPreferences
+getSharedPreferences,
+telephony,
+getMessageBody,
+getDisplayOriginatingAddress,
+wallpaper,
+crypto

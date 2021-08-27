@@ -8,6 +8,8 @@ def main():
        print("File path {} does not exist. Exiting...".format(filepath))
        sys.exit()
   
+   #filepath = "C:\\Users\\vinic\\Desktop\\Research\\python-ransomware-analyzer\\output\\smali"
+
    bag_of_words = {}
    with open(filepath) as fp:
        cnt = 0
