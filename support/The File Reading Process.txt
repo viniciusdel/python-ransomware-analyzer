@@ -1,3 +1,0 @@
-For each folder / file in the smali folder, read the file and look for potential functions.
-
-Make a list of potential functions.
