@@ -1,3 +1,3 @@
 @echo off
 
-apktool d -r -o %VAR1% %VAR2%
+apktool d --force-manifest -r -c -o %VAR1% %VAR2%
